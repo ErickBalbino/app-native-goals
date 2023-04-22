@@ -1,2 +1,2 @@
-# app-native-goals
+# RN Goals
 Adicione e gerencie metas
